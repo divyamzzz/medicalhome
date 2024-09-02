@@ -7,7 +7,7 @@ import kidney from '../Assets/kidney.jpg';
 
 const Work = () => {
   const handleButtonClick = () => {
-    window.location.href = "http://localhost:3001"; // Change the URL as needed
+    window.location.href = "https://medical-predi.vercel.app/"; // Change the URL as needed
   };
 
   const workInfoData = [
